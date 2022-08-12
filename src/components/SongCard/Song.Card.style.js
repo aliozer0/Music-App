@@ -32,7 +32,7 @@ export default StyleSheet.create({
     color: 'gray',
     fontWeight: 'bold',
   },
-    soldout_container: {
+    soldout_container: {      
       borderWidth: 1,
       borderColor: 'red',
       padding: 5,
